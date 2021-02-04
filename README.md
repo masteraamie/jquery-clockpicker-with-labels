@@ -115,39 +115,6 @@ clockpicker/
     └── standalone.css                 # some styles picked from bootstrap
 ```
 
-## Development
-
-```bash
-git clone https://github.com/weareoutman/clockpicker.git
-cd clockpicker
-npm install -g gulp
-npm install
-gulp
-# gulp test
-```
-
-## Todo
-
-- [ ] Auto placement and align.
-- [ ] Events.
-- [ ] Customize format.
-- [ ] Seconds View ?
-
-## Change log
-
-0.0.7
-
-* Enables twelve hour mode with AM & PM buttons.
-
-0.0.6
-
-* Default time can be setted to `now`.
-* Registered as a bower package.
-
-0.0.5
-
-* Functional operations.
-
 ## License
 
 MIT
